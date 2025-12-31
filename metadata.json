@@ -1,0 +1,7 @@
+{
+  "name": "Timemark Image Stamper",
+  "description": "A specialized tool for adding professional overlays, timestamps, and location data to photos, mimicking field-work documentation styles.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
